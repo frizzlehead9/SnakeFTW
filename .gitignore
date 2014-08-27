@@ -1,0 +1,9 @@
+**/overlays
+**/target
+**/out
+.idea
+*.iml
+.settings/
+.project
+.classpath
+org.eclipse.*
